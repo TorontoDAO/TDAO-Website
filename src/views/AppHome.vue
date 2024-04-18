@@ -19,9 +19,9 @@
       <div class="quote_content">
         <svg width="95" height="71" viewBox="0 0 95 71" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M42.73 0.859993L28.45 48.63L22.84 27.21C29.5267 27.21 34.91 29.08 38.99 32.82C43.1833 36.56 45.28 41.7733 45.28 48.46C45.28 55.0333 43.1267 60.3033 38.82 64.27C34.6267 68.2367 29.3 70.22 22.84 70.22C16.38 70.22 10.9967 68.2367 6.69 64.27C2.49667 60.3033 0.4 55.0333 0.4 48.46C0.4 46.6467 0.513334 44.8333 0.74 43.02C1.08 41.2067 1.70333 38.9967 2.61 36.39C3.63 33.7833 5.10333 30.3833 7.03 26.19L18.93 0.859993H42.73ZM92.03 0.859993L77.75 48.63L72.14 27.21C78.8267 27.21 84.21 29.08 88.29 32.82C92.4833 36.56 94.58 41.7733 94.58 48.46C94.58 55.0333 92.4267 60.3033 88.12 64.27C83.9267 68.2367 78.6 70.22 72.14 70.22C65.68 70.22 60.2967 68.2367 55.99 64.27C51.7967 60.3033 49.7 55.0333 49.7 48.46C49.7 46.6467 49.8133 44.8333 50.04 43.02C50.38 41.2067 51.0033 38.9967 51.91 36.39C52.93 33.7833 54.4033 30.3833 56.33 26.19L68.23 0.859993H92.03Z" fill="white"/></svg>
         <span>
-          Cultivate Tech Talent and Innovation: Build, <br>
-          nurture, and retain tech talent, making <br>
-          Toronto a beacon of technological excellence <br>
+          Cultivate Tech Talent and Innovation: Build,
+          nurture, and retain tech talent, making 
+          Toronto a beacon of technological excellence 
           and innovation on the global stage.
         </span>
       </div>
@@ -98,6 +98,8 @@ export default {
 </script>
 
 <style>
+  
+  
   .main_screen{
     padding-top: 170px;
     padding-bottom: 150px;
@@ -241,4 +243,107 @@ export default {
   .bottom_socials a{
     margin: 0 20px 0 20px;
   }
+
+  @media screen and (max-width: 1000px) {
+    h1{
+      font-size: 60px;
+    }
+
+    h2{
+      font-size: 24px;
+    }
+
+    .main_video {
+      width: 460px;
+      height: 320px;
+    }
+
+    .quote_content svg{
+      width: 95px;
+    }
+
+    .quote{
+      width: 700px;
+    }
+
+    .quote_content span {
+      margin-left: 20px;
+      font-size: 22px;
+      font-weight: 200;
+    }
+
+    .feature img {
+      width: 226px;
+      height: 266px;
+    }
+
+    .feature_title{
+      font-size: 26px;
+    }
+
+    .feature_text{
+      font-size: 13px;
+    }
+  }
+
+  @media screen and (max-width: 770px) {
+    .quote_content span{
+      font-size: 18px;
+    }
+
+    .quote {
+        width: 500px;
+    }
+
+    .feature_content {
+        max-width: 300px;
+        text-align: left;
+        margin-left: 20px;
+    }
+
+    .right .feature_content {
+        margin-right: 20px;
+        margin-left: 0px;
+    }
+  }
+
+  @media screen and (max-width: 560px) {
+    h1 {
+        font-size: 36px;
+    }
+
+    h2 {
+        font-size: 18px;
+    }
+
+    .main_video {
+        width: 320px;
+        height: 320px;
+        margin-top: 40px;
+    }
+
+    .quote {
+        width: 300px;
+    }
+
+    .feature {
+        flex-direction: column;
+    }
+
+    .right .feature_content {
+        order: 2;
+        margin-right: 0;
+    }
+
+    .feature_content {
+        margin-top: 20px;
+        margin-left: 0px;
+    }
+
+    .contact_title {
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+  }
+
 </style>

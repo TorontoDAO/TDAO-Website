@@ -55,4 +55,11 @@
       border: 1px solid #FF4C96;
       color: #FF4C96
     }
+
+    @media screen and (max-width: 1000px) {
+      .xl_btn{
+        width: 160px;
+        height: 40px;
+      }
+    }
   </style>

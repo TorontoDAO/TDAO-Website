@@ -3,7 +3,7 @@
       <div class="nav_wrap">
         <ul class="menu">
           <li><router-link to="/">Home</router-link></li>
-          <li><router-link to="/projects">Projects</router-link></li>
+          <!-- <li><router-link to="/projects">Projects</router-link></li> -->
           <li><router-link to="/press-releases">Press Releases</router-link></li>
         </ul>
         <ul class="socials">
@@ -92,5 +92,37 @@
 
   .sm_btn{
     margin-right: 19px;
+  }
+
+  @media screen and (max-width: 1150px) {
+    .nav_wrap{
+      max-width: 900px;
+    }
+
+    ul.menu{
+      margin-right: 10px;
+      margin-left: 10px;
+    }
+
+    ul.menu li{
+      margin-right: 20px;
+    }
+  }
+
+  @media screen and (max-width: 790px) {
+    .socials{
+      display: none;
+    }
+
+    ul.menu{
+      margin-left: 10px;
+    }
+  }
+
+  @media screen and (max-width: 565px) {
+    .nav_buttons{
+      display: none;
+    }
+
   }
   </style>
