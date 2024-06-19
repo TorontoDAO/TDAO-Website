@@ -6,7 +6,7 @@ import AppPost from '../views/AppPost.vue';
 const routes = [
   { path: '/', component: AppHome },
   { path: '/press-releases', component: AppBlog },
-  { path: '/press-releases/:slug', component: AppPost },
+  { path: '/press-releases/:slug', name: 'post', component: AppPost, props: true },
 ];
 
 const router = createRouter({
