@@ -15,22 +15,6 @@
           @click="redirectToWhatsapp"
         ></XlBtn>
       </div>
-      <div class="main_video">
-        <svg
-          width="120"
-          height="120"
-          viewBox="0 0 120 120"
-          fill="none"
-          xmlns="http://www.w3.org/2000/svg"
-        >
-          <circle cx="60" cy="60" r="45" fill="#040821" fill-opacity="0.6" />
-          <path
-            d="M85.2111 59.1056L48.7367 40.8683C47.9388 40.4694 47 41.0496 47 41.9416V78.0584C47 78.9504 47.9388 79.5306 48.7367 79.1317L85.2111 60.8944C85.9482 60.5259 85.9482 59.4741 85.2111 59.1056Z"
-            fill="#FF4C96"
-          />
-        </svg>
-        <span>Watch Introduction Video</span>
-      </div>
     </div>
     <div class="quote">
       <div class="quote_title">Our mission:</div>
