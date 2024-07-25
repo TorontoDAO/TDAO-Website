@@ -90,7 +90,7 @@
           <div class="feature_text">
             We have created a Whatsapp Community with different channels
             focusing on topics ranging from “Universal income”, “Jobs” and more.
-            Be apart of our community as we have lively discussions on issues
+            Be a part of our community as we have lively discussions on issues
             that are important to Toronto.
           </div>
           <div class="feature_btns">
