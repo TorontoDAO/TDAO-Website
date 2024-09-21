@@ -3,7 +3,7 @@
     <div class="nav_wrap">
       <ul class="menu">
         <li><router-link to="/">Home</router-link></li>
-        <!-- <li><router-link to="/projects">Projects</router-link></li> -->
+        <li><router-link to="/partners">Partners</router-link></li>
         <li><router-link to="/press-releases">Press Releases</router-link></li>
       </ul>
       <ul class="socials">
