@@ -122,6 +122,11 @@ export default {
           logo: require("@/assets/logo18.png"),
           url: "https://x.com/girl_intheverse",
         },
+        {
+          name: "Sacred Protocol",
+          logo: require("@/assets/logo19.png"),
+          url: "https://www.sacredprotocol.com/",
+        },
 
         // Add more partners here
       ],
