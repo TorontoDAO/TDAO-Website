@@ -4,7 +4,8 @@
       <ul class="menu">
         <li><router-link to="/">Home</router-link></li>
         <li><router-link to="/partners">Partners</router-link></li>
-        <li><router-link to="/press-releases">Press Releases</router-link></li>
+        <li><router-link to="/about">About</router-link></li>
+        <li><router-link to="/press-releases">Blogs</router-link></li>
       </ul>
       <ul class="socials">
         <li>
