@@ -33,6 +33,11 @@ export default {
           url: "https://bitcoinbay.ca/",
         },
         {
+          name: "Sui Community",
+          logo: require("@/assets/sui-logo.png"),
+          url: "https://x.com/SuiFamOfficial",
+        },
+        {
           name: "ICP Hub CA & US",
           logo: require("@/assets/logo1.png"),
           url: "https://icpnorthamerica.org/",
