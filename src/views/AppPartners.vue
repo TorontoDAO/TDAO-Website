@@ -28,15 +28,16 @@ export default {
     return {
       partnerLogos: [
         {
-          name: "Bitcoin Bay",
-          logo: require("@/assets/bb.jpeg"),
-          url: "https://bitcoinbay.ca/",
-        },
-        {
           name: "Sui Community",
           logo: require("@/assets/sui-logo.png"),
           url: "https://x.com/SuiFamOfficial",
         },
+        {
+          name: "Bitcoin Bay",
+          logo: require("@/assets/bb.jpeg"),
+          url: "https://bitcoinbay.ca/",
+        },
+
         {
           name: "ICP Hub CA & US",
           logo: require("@/assets/logo1.png"),
