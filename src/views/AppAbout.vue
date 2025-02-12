@@ -25,6 +25,56 @@
         <img src="@/assets/samir.jpg" alt="Sample Image" class="image" />
         <div class="text-content">
           <h3>Samir Azizi</h3>
+          <ul class="social-icons">
+            <li>
+              <a
+                href="https://www.linkedin.com/in/samirazizi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+                target="_blank"
+              >
+                <!-- LinkedIn Icon -->
+                <svg
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <g clip-path="url(#clip0_4_212)">
+                    <path
+                      d="M18.5195 0H1.47656C0.660156 0 0 0.644531 0 1.44141V18.5547C0 19.3516 0.660156 20 1.47656 20H18.5195C19.3359 20 20 19.3516 20 18.5586V1.44141C20 0.644531 19.3359 0 18.5195 0ZM5.93359 17.043H2.96484V7.49609H5.93359V17.043ZM4.44922 6.19531C3.49609 6.19531 2.72656 5.42578 2.72656 4.47656C2.72656 3.52734 3.49609 2.75781 4.44922 2.75781C5.39844 2.75781 6.16797 3.52734 6.16797 4.47656C6.16797 5.42187 5.39844 6.19531 4.44922 6.19531ZM17.043 17.043H14.0781V12.4023C14.0781 11.2969 14.0586 9.87109 12.5352 9.87109C10.9922 9.87109 10.7578 11.0781 10.7578 12.3242V17.043H7.79688V7.49609H10.6406V8.80078H10.6797C11.0742 8.05078 12.043 7.25781 13.4844 7.25781C16.4883 7.25781 17.043 9.23438 17.043 11.8047V17.043V17.043Z"
+                      fill="white"
+                    />
+                  </g>
+                  <defs>
+                    <clipPath id="clip0_4_212">
+                      <rect width="20" height="20" fill="white" />
+                    </clipPath>
+                  </defs>
+                </svg>
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://x.com/adoublezi?s=21&t=mWVM_nh66uA5j1oEOVlN5Q"
+                target="_blank"
+              >
+                <!-- X Icon -->
+                <svg
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M15.2719 1.58661H18.0831L11.9414 8.60619L19.1666 18.1582H13.5093L9.07834 12.365L4.00827 18.1582H1.19534L7.76451 10.65L0.833313 1.58661H6.63424L10.6395 6.88189L15.2719 1.58661ZM14.2852 16.4756H15.843L5.78781 3.18089H4.1162L14.2852 16.4756Z"
+                    fill="white"
+                  />
+                </svg>
+              </a>
+            </li>
+          </ul>
+
           <p>
             Samir Azizi is a seasoned marketing professional with a strong
             background in the crypto industry, having worked as the Marketing
@@ -41,6 +91,55 @@
         <img src="@/assets/matthew.jpg" alt="Sample Image" class="image" />
         <div class="text-content">
           <h3>Matthew Glezos</h3>
+          <ul class="social-icons">
+            <li>
+              <a
+                href="https://www.linkedin.com/in/matthew-glezos-9027b9100?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+                target="_blank"
+              >
+                <!-- LinkedIn Icon -->
+                <svg
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <g clip-path="url(#clip0_4_212)">
+                    <path
+                      d="M18.5195 0H1.47656C0.660156 0 0 0.644531 0 1.44141V18.5547C0 19.3516 0.660156 20 1.47656 20H18.5195C19.3359 20 20 19.3516 20 18.5586V1.44141C20 0.644531 19.3359 0 18.5195 0ZM5.93359 17.043H2.96484V7.49609H5.93359V17.043ZM4.44922 6.19531C3.49609 6.19531 2.72656 5.42578 2.72656 4.47656C2.72656 3.52734 3.49609 2.75781 4.44922 2.75781C5.39844 2.75781 6.16797 3.52734 6.16797 4.47656C6.16797 5.42187 5.39844 6.19531 4.44922 6.19531ZM17.043 17.043H14.0781V12.4023C14.0781 11.2969 14.0586 9.87109 12.5352 9.87109C10.9922 9.87109 10.7578 11.0781 10.7578 12.3242V17.043H7.79688V7.49609H10.6406V8.80078H10.6797C11.0742 8.05078 12.043 7.25781 13.4844 7.25781C16.4883 7.25781 17.043 9.23438 17.043 11.8047V17.043V17.043Z"
+                      fill="white"
+                    />
+                  </g>
+                  <defs>
+                    <clipPath id="clip0_4_212">
+                      <rect width="20" height="20" fill="white" />
+                    </clipPath>
+                  </defs>
+                </svg>
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://x.com/matthew_glezos?s=21&t=mWVM_nh66uA5j1oEOVlN5Q"
+                target="_blank"
+              >
+                <!-- X Icon -->
+                <svg
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M15.2719 1.58661H18.0831L11.9414 8.60619L19.1666 18.1582H13.5093L9.07834 12.365L4.00827 18.1582H1.19534L7.76451 10.65L0.833313 1.58661H6.63424L10.6395 6.88189L15.2719 1.58661ZM14.2852 16.4756H15.843L5.78781 3.18089H4.1162L14.2852 16.4756Z"
+                    fill="white"
+                  />
+                </svg>
+              </a>
+            </li>
+          </ul>
           <p>
             An MBA with a traditional finance background with working experience
             in Canada and Latin America, Matthew began an interest in Web3 in
@@ -57,6 +156,55 @@
         <img src="@/assets/antoine.jpg" alt="Sample Image" class="image" />
         <div class="text-content">
           <h3>Antoine De Vuyst</h3>
+          <ul class="social-icons">
+            <li>
+              <a
+                href="https://www.linkedin.com/in/antoine-de-vuyst-49a74194?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+                target="_blank"
+              >
+                <!-- LinkedIn Icon -->
+                <svg
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <g clip-path="url(#clip0_4_212)">
+                    <path
+                      d="M18.5195 0H1.47656C0.660156 0 0 0.644531 0 1.44141V18.5547C0 19.3516 0.660156 20 1.47656 20H18.5195C19.3359 20 20 19.3516 20 18.5586V1.44141C20 0.644531 19.3359 0 18.5195 0ZM5.93359 17.043H2.96484V7.49609H5.93359V17.043ZM4.44922 6.19531C3.49609 6.19531 2.72656 5.42578 2.72656 4.47656C2.72656 3.52734 3.49609 2.75781 4.44922 2.75781C5.39844 2.75781 6.16797 3.52734 6.16797 4.47656C6.16797 5.42187 5.39844 6.19531 4.44922 6.19531ZM17.043 17.043H14.0781V12.4023C14.0781 11.2969 14.0586 9.87109 12.5352 9.87109C10.9922 9.87109 10.7578 11.0781 10.7578 12.3242V17.043H7.79688V7.49609H10.6406V8.80078H10.6797C11.0742 8.05078 12.043 7.25781 13.4844 7.25781C16.4883 7.25781 17.043 9.23438 17.043 11.8047V17.043V17.043Z"
+                      fill="white"
+                    />
+                  </g>
+                  <defs>
+                    <clipPath id="clip0_4_212">
+                      <rect width="20" height="20" fill="white" />
+                    </clipPath>
+                  </defs>
+                </svg>
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://x.com/walalaaaaa?s=21&t=mWVM_nh66uA5j1oEOVlN5Q"
+                target="_blank"
+              >
+                <!-- X Icon -->
+                <svg
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M15.2719 1.58661H18.0831L11.9414 8.60619L19.1666 18.1582H13.5093L9.07834 12.365L4.00827 18.1582H1.19534L7.76451 10.65L0.833313 1.58661H6.63424L10.6395 6.88189L15.2719 1.58661ZM14.2852 16.4756H15.843L5.78781 3.18089H4.1162L14.2852 16.4756Z"
+                    fill="white"
+                  />
+                </svg>
+              </a>
+            </li>
+          </ul>
           <p>
             Antoine De Vuyst is a seasoned Ethereum and Blockchain developer,
             active in the crypto world since 2011. As a co-founder of Bitcoin
@@ -131,5 +279,27 @@
 .text-content p {
   font-size: 16px;
   line-height: 1.6;
+}
+.social-icons {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+  list-style: none;
+  padding-left: 0px;
+}
+
+.social-icons a {
+  display: block;
+  width: 20px;
+  height: 20px;
+}
+
+.social-icons a svg {
+  width: 100%;
+  height: 100%;
+}
+
+.social-icons a:hover svg {
+  opacity: 0.7;
 }
 </style>
