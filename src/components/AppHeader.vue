@@ -148,7 +148,9 @@ ul.menu li {
     margin-right: 20px;
   }
 }
-
+.socials {
+  display: none;
+}
 @media screen and (max-width: 790px) {
   .socials {
     display: none;
