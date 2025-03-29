@@ -33,6 +33,16 @@ export default {
           url: "https://x.com/SuiFamOfficial",
         },
         {
+          name: "Walrus Protocol",
+          logo: require("@/assets/walrus.png"),
+          url: "https://x.com/SuiFamOfficial",
+        },
+        {
+          name: "Sui Play",
+          logo: require("@/assets/suiplay.png"),
+          url: "https://x.com/SuiFamOfficial",
+        },
+        {
           name: "Bitcoin Bay",
           logo: require("@/assets/bb.jpeg"),
           url: "https://bitcoinbay.ca/",
