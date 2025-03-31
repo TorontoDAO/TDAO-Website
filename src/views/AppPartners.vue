@@ -40,7 +40,7 @@ export default {
         {
           name: "Consensus 2025",
           logo: require("@/assets/consensus.png"),
-          url: "https://x.com/SuiFamOfficial",
+          url: "https://x.com/consensus2025",
         },
         {
           name: "Bitcoin Bay",
