@@ -35,11 +35,11 @@ export default {
         {
           name: "Walrus Protocol",
           logo: require("@/assets/walrus.png"),
-          url: "https://x.com/SuiFamOfficial",
+          url: "https://x.com/WalrusProtocol",
         },
         {
-          name: "Sui Play",
-          logo: require("@/assets/suiplay.png"),
+          name: "Consensus 2025",
+          logo: require("@/assets/consensus.png"),
           url: "https://x.com/SuiFamOfficial",
         },
         {
