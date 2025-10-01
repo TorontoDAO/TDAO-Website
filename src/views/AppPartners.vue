@@ -79,16 +79,6 @@ export default {
           url: "https://www.linkedin.com/company/femt3ch/",
         },
         {
-          name: "BlockchainEvents.ca",
-          logo: require("@/assets/logo6.png"),
-          url: "https://www.blockchainevents.ca/",
-        },
-        {
-          name: "Blacks on Blockchain",
-          logo: require("@/assets/logo8.jpg"),
-          url: "https://www.linkedin.com/company/blacksonblockchain/",
-        },
-        {
           name: "Web3TO",
           logo: require("@/assets/logo9.png"),
           url: "https://www.web3to.ca/",
@@ -97,11 +87,6 @@ export default {
           name: "EukaPay",
           logo: require("@/assets/logo10.png"),
           url: "https://eukapay.com/",
-        },
-        {
-          name: "TechFestTO",
-          logo: require("@/assets/logo11.png"),
-          url: "https://www.torontotechfest.com/",
         },
         {
           name: "Green Pill Toronto",
@@ -122,21 +107,6 @@ export default {
           name: "Blockchain Futurist Conference",
           logo: require("@/assets/logo15.png"),
           url: "https://www.futuristconference.com/",
-        },
-        {
-          name: "The Wright Success",
-          logo: require("@/assets/logo16.png"),
-          url: "https://www.linkedin.com/in/thewrightsuccess/",
-        },
-        {
-          name: "Obivee",
-          logo: require("@/assets/logo17.png"),
-          url: "https://www.obivee.com/",
-        },
-        {
-          name: "Girl in the Verse",
-          logo: require("@/assets/logo18.png"),
-          url: "https://x.com/girl_intheverse",
         },
         {
           name: "Sacred Protocol",
