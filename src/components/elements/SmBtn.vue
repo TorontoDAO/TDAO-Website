@@ -1,6 +1,13 @@
-<template>
-    <div :class="['sm_btn', buttonClass, { long: isLong }]">{{ buttonText }}</div>
-</template>
+  <template>
+    <a v-if="buttonLink" :href="buttonLink" target="_blank" class="btn_link">
+    <div :class="['sm_btn', buttonClass, { long: isLong }]">
+      {{ buttonText }}
+    </div>
+    </a>
+    <div v-else :class="['sm_btn', buttonClass, { long: isLong }]">
+      {{ buttonText }}
+    </div>
+  </template>
   
   <script>
   export default {
@@ -18,6 +25,10 @@
         isLong: {     
           type: Boolean,
           default: false,
+        },
+        buttonLink: {
+          type: String,
+          default: '',
         },
     }
   };
@@ -41,7 +52,12 @@
     }
 
     .sm_btn.long{
-      width: 140px;
+      width: 210px;
+    }
+
+    .btn_link {
+      text-decoration: none;
+      display: block;
     }
 
     .sm_btn.border{

@@ -47,8 +47,8 @@
         </li>
       </ul>
       <div class="nav_buttons">
-        <SmBtn button-text="Join Us" button-class="filled"></SmBtn>
-        <SmBtn button-text="Contact Us" button-class="border"></SmBtn>
+        <SmBtn button-text="Subscribe to Our Calendar" button-class="filled" button-link="https://luma.com/TorontoDAO"
+    :is-long="true"></SmBtn>
       </div>
     </div>
   </nav>
@@ -67,14 +67,16 @@ export default {
 
 <style scoped>
 nav {
-  display: flex;
-  justify-content: center;
-  position: absolute;
-  top: 28px;
+  position: absolute; 
+  top: 0;
   left: 0;
   right: 0;
   width: 100%;
-  height: 30px;
+  display: flex;
+  justify-content: center;
+  padding-top: 28px;
+  height: 90px;
+  z-index: 9999; 
 }
 
 ul {

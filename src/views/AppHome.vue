@@ -49,14 +49,9 @@
       <h2>Next Generation Decentralized Community</h2>
       <div class="main_btns">
         <XlBtn
-          button-text="Join Us"
+          button-text="Subscribe to Our Calendar"
           button-class="filled"
           @click="redirectToMembership"
-        ></XlBtn>
-        <XlBtn
-          button-text="Contact Us"
-          button-class="border"
-          @click="redirectToWhatsapp"
         ></XlBtn>
       </div>
     </div>
@@ -83,27 +78,6 @@
       </div>
     </div>
     <div class="features">
-      <div class="feature left">
-        <img src="../assets/nft.jpg" />
-        <div class="feature_content">
-          <div class="feature_title">
-            Get NFT and Become <br />a TorontoDAO Member
-          </div>
-          <div class="feature_text">
-            Members of the DAO are sent 'Soul Bound' NFT memberships that allow
-            members to vote on proposals for the DAO. These NFTs cannot be
-            transferred and indicate the voting power of the address that
-            claimed this NFT.
-          </div>
-          <div class="feature_btns">
-            <SmBtn
-              button-text="Claim NFT"
-              button-class="filled"
-              @click="redirectToMembership"
-            ></SmBtn>
-          </div>
-        </div>
-      </div>
       <div class="feature right">
         <img src="../assets/vote.jpg" />
         <div class="feature_content">
@@ -130,11 +104,6 @@
     </div>
     <div class="contact">
       <div class="contact_title">Question? Contact Us!</div>
-      <XlBtn
-        button-text="Contact Us"
-        button-class="border"
-        @click="redirectToWhatsapp"
-      ></XlBtn>
       <div class="bottom_socials">
         <a href="https://www.linkedin.com/company/tdao-eth/" target="_blank"
           ><svg
@@ -185,7 +154,7 @@ export default {
   },
   methods: {
     redirectToMembership() {
-      window.location.href = "https://members.tdao.to/";
+      window.location.href = "https://luma.com/TorontoDAO";
     },
     redirectToWhatsapp() {
       window.location.href = "https://chat.whatsapp.com/J1NMWBVz4QtLHhxFIyvw3f";
