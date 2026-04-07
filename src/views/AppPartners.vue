@@ -54,11 +54,6 @@ export default {
           url: "https://icpnorthamerica.org/",
         },
         {
-          name: "Bitget",
-          logo: require("@/assets/logo2.png"),
-          url: "https://www.bitget.com/",
-        },
-        {
           name: "Bitcoin Cash Toronto",
           logo: require("@/assets/logo3.png"),
           url: "https://www.meetup.com/bitcoincashtoronto/",
